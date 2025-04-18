@@ -107,3 +107,8 @@ Download the dataset
 ├── test.csv
 ├── train_images/
 └── test_images/
+
+
+## Youtube
+
+[AI-Based Early Detection of Diabetic Retinopathy](https://youtu.be/EGW5cCgDf3s)
