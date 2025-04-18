@@ -86,14 +86,13 @@ Two ensemble models were evaluated:
 - Confusion Matrix
 - Class Distribution Bar Plot
 - Sample Augmented Fundus Images
-
----
+--
 
 ## 🛠 Requirements
 
 Install the required Python packages:
 
-```bash
+
 pip install -r requirements.txt
 
 ## How to Run
@@ -108,7 +107,9 @@ Download the dataset
 ├── train_images/
 └── test_images/
 
-
 ## Youtube
 
 [AI-Based Early Detection of Diabetic Retinopathy](https://youtu.be/EGW5cCgDf3s)
+
+```bash
+
