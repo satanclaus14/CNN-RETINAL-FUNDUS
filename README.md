@@ -95,6 +95,13 @@ Install the required Python packages:
 
 pip install -r requirements.txt
 
+
+## Youtube
+
+[AI-Based Early Detection of Diabetic Retinopathy](https://youtu.be/EGW5cCgDf3s)
+
+```bash
+
 ## How to Run
 Clone the repository 
 git clone https://github.com/yourusername/diabetic-retinopathy-detection.git
@@ -106,10 +113,4 @@ Download the dataset
 ├── test.csv
 ├── train_images/
 └── test_images/
-
-## Youtube
-
-[AI-Based Early Detection of Diabetic Retinopathy](https://youtu.be/EGW5cCgDf3s)
-
-```bash
 
